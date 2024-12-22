@@ -1,5 +1,6 @@
 // SPDX-FileCopyrightText: 2024 Jeff Mitchell <jeffrey.mitchell@gmail.com>
 // SPDX-License-Identifier: APL-2.0
+
 package twinkly
 
 import (
